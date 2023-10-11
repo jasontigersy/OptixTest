@@ -88,3 +88,5 @@ Children:
     ModellingRule: Optional
     Value: "OptixTest"
 - File: Screens/Screens.yaml
+- File: Screens1/Screens1.yaml
+- File: Folder1/Folder1.yaml
